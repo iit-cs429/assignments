@@ -40,5 +40,6 @@ For each assignment, then, you should do the following:
 
 6. You can also view your code on Github with a web browser to make sure all your code has been submitted.
 
-
+7. Assignments contain [doctests](https://docs.python.org/2/library/doctest.html). You can run these for a file `foo.py` using `python -m doctest foo.py`. 
+8. Typically, each assignment contains a number of methods for you to complete. I recommend tackling these one at a time, debugging and testing, and then moving onto the next method. Implementing everything and then running at the end will likely result in many errors that can be difficult to track down.
 
