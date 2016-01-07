@@ -19,4 +19,4 @@ E.g., for me this would be:
   - You should have read/write (pull/push) access to your private repository.
   - This is where you will submit assignments.
 
-6. Read <https://github.com/iit-cs429/assignments> for instructions on submitting assignments.
+See <https://github.com/iit-cs429/assignments> for instructions on submitting assignments.
