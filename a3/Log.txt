@@ -1,0 +1,5 @@
+read 1893 training documents.
+read 1000 testing documents.
+accuracy=0.987, 8 false spam, 5 missed spam
+top ham terms: 758.80/linguistics 536.90/languages 414.36/workshop 337.17/language 327.82/linguistic 282.82/theory 240.24/grammar 221.89/syntax 204.58/abstracts 194.89/papers
+top spam terms: 563.31/&nbsp 398.65/capitalfm 274.43/floodgate 242.66/investment 196.44/bonus 173.33/secrets 170.44/stealth 167.55/millions 160.04/bulk 138.66/mlm

@@ -1,0 +1,23 @@
+read 509 people with a total of 5047 inlinks
+read 509 people with a total of 5047 outlinks
+Top page ranks:
+Donald_Knuth	0.08372
+Rudy_Rucker	0.07940
+Fred_Brooks	0.07389
+Adi_Shamir	0.06984
+Douglas_Engelbart	0.06941
+Allen_Newell	0.06934
+Stephen_Wolfram	0.06704
+Alan_Kay	0.06534
+Niklaus_Wirth	0.06421
+Alan_Perlis	0.06368
+E._Allen_Emerson	0.06327
+Herbert_A._Simon	0.06236
+Dennis_Ritchie	0.06233
+Edmund_M._Clarke	0.06215
+Amir_Pnueli	0.06165
+Dana_Scott	0.06021
+John_McCarthy_(computer_scientist)	0.05920
+John_Cocke	0.05905
+Barbara_Liskov	0.05878
+Charles_Bachman	0.05854

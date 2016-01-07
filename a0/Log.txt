@@ -1,0 +1,48 @@
+
+
+QUERY:lion
+
+RESULTS:
+How do you keep a lion from charging?     Take away its credit cards.
+
+
+
+QUERY:What has
+
+RESULTS:
+What has four legs and goes booo?     A cow with a cold
+
+What has 10 letters and starts with gas?     An automobile.
+
+
+
+QUERY:why because
+
+RESULTS:
+Why did the elephant decide not to move?     Because he couldn't lift his trunk.
+
+Why did the strawberry cross the road?     Because his mother was in a jam.
+
+Why is the little duck always so sad?     Because he always sees a bill in front of his face.
+
+Why did they bury the battery?     Because it was dead.
+
+Why don't lobsters share?     Because they are shellfish.
+
+Why does the man wish he could be a guitar player in a room full of beautiful girls?     Because if he was a guitar player, he would have his pick!
+
+Why did the ghost float across the road?     Because he couldn't walk.
+
+
+
+QUERY:why because HE
+
+RESULTS:
+Why did the elephant decide not to move?     Because he couldn't lift his trunk.
+
+Why is the little duck always so sad?     Because he always sees a bill in front of his face.
+
+Why does the man wish he could be a guitar player in a room full of beautiful girls?     Because if he was a guitar player, he would have his pick!
+
+Why did the ghost float across the road?     Because he couldn't walk.
+
