@@ -1,5 +1,3 @@
-**Assignments are still being finalized for 2016.**
-
 Each student has their own private GitHub repository at:  
 <https://github.com/iit-cs429/[your-github-id]>
 
