@@ -40,11 +40,6 @@ Expecting:
     [0]
 ok
 Trying:
-    index['c']
-Expecting:
-    [1]
-ok
-Trying:
     intersect([1, 3, 5], [3, 4, 5, 10])
 Expecting:
     [3, 5]
@@ -73,14 +68,14 @@ ok
     boolean_search
     boolean_search.main
 5 items passed all tests:
-   5 tests in boolean_search.create_index
+   4 tests in boolean_search.create_index
    2 tests in boolean_search.intersect
    1 tests in boolean_search.search
    1 tests in boolean_search.sort_by_num_postings
    1 tests in boolean_search.tokenize
-10 tests in 7 items.
-10 passed and 0 failed.
+9 tests in 7 items.
+9 passed and 0 failed.
 Test passed.
 ```
 
-The expected output of running `python boolean_search.py` is in `Log.txt`.
+The expected output of running python `boolean_search.py` is in `Log.txt`.
