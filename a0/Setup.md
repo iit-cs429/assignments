@@ -18,5 +18,6 @@ E.g., for me this would be:
   ```
   - You should have read/write (pull/push) access to your private repository.
   - This is where you will submit assignments.
+  - **Note:** This step will not work until I have setup your private repository. This usually happens by the end of the first week of the semester (and this is why I need you to complete the course survey).
 
-6. Read <https://github.com/iit-cs429/assignments> for instructions on submitting assignments.
+See <https://github.com/iit-cs429/assignments> for instructions on submitting assignments.
