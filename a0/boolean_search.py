@@ -17,7 +17,11 @@ import re
 def tokenize(document):
     """ Convert a string representing one document into a list of
     words. Remove all punctuation and split on whitespace.
-    Here is a doctest: 
+    Params:
+      document...a string to be tokenized
+    Returns:
+      A list of strings, one per token.
+    Here is a doctest:
     >>> tokenize("Hi  there. What's going on?")
     ['hi', 'there', 'what', 's', 'going', 'on']
     """
