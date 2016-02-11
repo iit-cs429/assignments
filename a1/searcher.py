@@ -112,7 +112,7 @@ class Index(object):
 
     def query_to_vector(self, query_terms):
         """ Convert a list of query terms into a dict mapping term to inverse document frequency (IDF).
-        Compute IDF of term T as N / log10(document frequency of T), where N is the total number of documents.
+        Compute IDF of term T as log10(N / (document frequency of T)), where N is the total number of documents.
         You may need to use the instance variables of the Index object to compute this. Do not modify the method signature.
 
         If a query term is not in the index, simply omit it from the result.
