@@ -56,9 +56,9 @@ def parse_query_strings(strings):
     ... *STOP'''
     >>> res = parse_query_strings(string.split('\n'))
     >>> print('%s' % res[1])
-    KENNEDY ADMINISTRATION PRESSURE ON NGO DINH DIEM TO STOP SUPPRESSING THE BUDDHISTS . 
+    KENNEDY ADMINISTRATION PRESSURE ON NGO DINH DIEM TO STOP SUPPRESSING THE BUDDHISTS .
     >>> print('%s' % res[2])
-    EFFORTS OF AMBASSADOR HENRY CABOT LODGE TO GET VIET NAM'S PRESIDENT DIEM TO CHANGE HIS POLICIES OF POLITICAL REPRESSION . 
+    EFFORTS OF AMBASSADOR HENRY CABOT LODGE TO GET VIET NAM'S PRESIDENT DIEM TO CHANGE HIS POLICIES OF POLITICAL REPRESSION .
     """
     ###TODO
     pass
@@ -87,7 +87,7 @@ def parse_document_strings(strings):
     ...
     ... *STOP'''
     >>> parse_document_strings(string.split('\n'))
-    ['THE ALLIES AFTER NASSAU ', 'THE ROAD TO JAIL IS PAVED WITH ']
+    ['THE ALLIES AFTER NASSAU', 'THE ROAD TO JAIL IS PAVED WITH']
     """
     ###TODO
     pass
