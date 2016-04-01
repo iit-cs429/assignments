@@ -1,5 +1,7 @@
 ## Bonus Assignment: Clustering
 
+**15 bonus points**
+
 In this assignment, you will implement k-means clustering to cluster together a sample of user descriptions from Twitter. (I apologize for any offensive text you may be subjected to.) These are a somewhat random sample of 10,000 user profiles. They have already been tokenized.
 
 1. Implement the functions as indicated in `cluster.py`
