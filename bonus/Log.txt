@@ -1,0 +1,151 @@
+read 10000 profiles.
+[4, 5, 673, 23, 2, 8, 727, 200, 7817, 354]
+31853.35
+[12, 17, 755, 152, 3, 23, 753, 456, 6982, 660]
+31506.99
+[26, 63, 698, 279, 5, 41, 859, 612, 6371, 859]
+31307.21
+[56, 91, 645, 311, 15, 51, 853, 787, 5946, 1058]
+31175.86
+[82, 123, 622, 329, 51, 62, 868, 880, 5677, 1119]
+31108.13
+[139, 180, 595, 343, 167, 73, 832, 969, 5401, 1114]
+31011.42
+[197, 241, 591, 349, 213, 84, 769, 938, 5230, 1201]
+30956.18
+[300, 291, 588, 343, 246, 100, 700, 927, 5153, 1165]
+30902.46
+[293, 383, 585, 339, 284, 111, 663, 918, 5090, 1147]
+30880.11
+[289, 450, 600, 334, 332, 120, 629, 909, 5032, 1118]
+30855.79
+[290, 474, 612, 325, 420, 131, 597, 895, 4979, 1090]
+30840.97
+[291, 541, 621, 309, 550, 146, 580, 883, 4827, 1065]
+30822.69
+[293, 644, 624, 294, 660, 168, 577, 870, 4652, 1031]
+30804.25
+[296, 823, 629, 280, 680, 178, 574, 853, 4480, 1020]
+30783.16
+[298, 830, 641, 269, 699, 177, 570, 830, 4486, 1013]
+30778.99
+[299, 842, 642, 267, 710, 176, 570, 813, 4487, 1007]
+30777.86
+[299, 850, 645, 268, 720, 175, 570, 802, 4487, 997]
+30777.23
+[299, 849, 646, 268, 727, 175, 570, 800, 4487, 992]
+30777.08
+[299, 848, 646, 268, 729, 175, 570, 801, 4487, 990]
+30777.05
+[299, 852, 646, 268, 729, 175, 570, 802, 4486, 986]
+30777.00
+CLUSTER 0
+a of prince princess
+a it marriage not s
+a always lesson mistake never
+a always failure lesson never
+a d dm pin wa
+a am ap aries i ucdavis
+a queen s to what whore
+a destination journey life not s
+a l potterhead s w y
+a and attitude heart smile tattoos with
+CLUSTER 1
+and dj i stuff
+accessories and i sell
+a and little spirit
+a and basket ૐ
+and beats life rhymes
+and live shut up
+and friendly fun loving
+and free wild young
+an and avid equestrian
+and shit twitter yeah
+CLUSTER 2
+and art i like m
+a am i m single
+different i m promise
+can i m say what
+i it like look
+i l me per
+am i therefore tweet
+a i it ll m misfit
+a am god i king m the
+famous i was wish
+CLUSTER 3
+and hate i re you
+don t were wish you
+likes nobody re when you
+can if it ride the to wind you
+always cant get want what you
+already f i if know me with you
+and die learn live then you
+and believe can halfway re there you
+before fall fly gotta sometimes you
+big dont fuck if red then you
+CLUSTER 4
+i ig live to
+i live run to
+eat i like to
+giggle i like to
+boo the to yaaa
+i strangers talk to
+i refuse sink to
+i sequins to wear
+be forgotten refuse to
+hello to too you
+CLUSTER 5
+care don i t
+don i play t
+don me mind t
+care don i just t
+don t talk think
+child don t worry
+don fuckin t yolo
+ask assume don t
+don hoes know me t you
+about don forget me t you
+CLUSTER 6
+follow instagram me on
+follow instagram me on
+follow instagram me on
+follow ig me on
+follow ig me on
+follow instragram me on
+follow instagram lost me
+bck follow i me
+follow love me nuggets
+follow just me please
+CLUSTER 7
+basketball is life my
+food is life my
+baseball is life my
+i life love my
+is life my rodeo
+is my name real
+hi is my name
+all i love my
+is mind my this
+is moto my this
+CLUSTER 8
+a i life need
+a i m soccer
+a i m years
+a i m mommy
+a cunt i m
+a am god i
+god i love you
+a goon life of
+a fuck im you
+all i is need
+CLUSTER 9
+consciousness my of the
+alabama of the university
+all of romance the
+i like music the
+hoes i im the
+i like the thrill
+extreme in nerd the
+am i the walrus
+i play six the
+and life of the times
